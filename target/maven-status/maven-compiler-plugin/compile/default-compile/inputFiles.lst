@@ -1,0 +1,15 @@
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/model/Provinces.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/api/PropertiesApi.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/RFC3339DateFormat.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/api/ApiOriginFilter.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/api/ApiResponseMessage.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/api/NotFoundException.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/configuration/HomeController.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/Swagger2SpringBoot.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/api/ApiException.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/model/Properties.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/model/Error.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/api/PropertiesApiController.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/model/Property.java
+/Users/luissantana/Downloads/spring-server/src/main/java/io/swagger/model/PropertyCreated.java
